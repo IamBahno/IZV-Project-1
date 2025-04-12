@@ -9,3 +9,6 @@
 - Downloading and parsing station data from a website using BeautifulSoup
 
 Run with: `pytest test_part01.py`
+
+![1](fn.png)
+![2](sin.png)
